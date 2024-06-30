@@ -24,7 +24,7 @@ QQ 917211061 👋⭐️
 ### 关于我
 - [BiliBili](http://weibo.com/jayinfo](https://space.bilibili.com/436191646?spm_id_from=333.788.0.0))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Canglangzi&layout=compact&theme=tokyonight)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Canglangzi)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
